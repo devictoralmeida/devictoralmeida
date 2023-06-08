@@ -6,6 +6,8 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devictoralmeida)](https://github.com/anuraghazra/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@devictoralmeida/9b22763d-67ab-4287-ac6a-43b76d8cdaa1.svg"></embed></figure>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

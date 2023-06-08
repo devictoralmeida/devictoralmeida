@@ -1,12 +1,13 @@
 ## Olá! Eu sou victor Almeida
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&repo=github-readme-stats" />
+</div>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devictoralmeida)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@devictoralmeida/9b22763d-67ab-4287-ac6a-43b76d8cdaa1.svg"></embed></figure>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

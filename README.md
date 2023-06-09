@@ -1,12 +1,11 @@
 ## Olá! Eu sou victor Almeida
 
-
 <div style="display: inline_block"><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)&repo=github-readme-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&repo=github-readme-stats" />
+  <img align="center" height="200" width="450"src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)&repo=github-readme-stats" />
+  <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&repo=github-readme-stats" />
+  <img align="center" height="300" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=devictoralmeida&repo=github-readme-stats" />
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devictoralmeida)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>

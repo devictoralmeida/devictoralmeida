@@ -24,7 +24,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr" alt="devictoralmeida's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr&rank_icon=github" alt="devictoralmeida's stats"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&theme=codeSTACKr" alt="devictoralmeida's most languages"/>
 </p>
 
@@ -32,7 +32,7 @@
 
 <br>
 
-## ⚙️ Top Repos
+## 👩‍💻 Top Repos
 
 <p align="left">
   <img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>

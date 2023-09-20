@@ -1,5 +1,6 @@
-<img align="right" height="610em" src="https://raw.githubusercontent.com/gist/devictoralmeida/b67dc29ed740c10a15bcec6ec89ae6cd/raw/77aa0eb8a16cb92379003dc65e51cdce360440c2/githubcard.svg"/>
-<h1 align="left">Hi 👋, I'm Victor Almeida</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devictoralmeida/b67dc29ed740c10a15bcec6ec89ae6cd/raw/77aa0eb8a16cb92379003dc65e51cdce360440c2/githubcard.svg"/>  
+
+<h1 align="left">Hi 👋, I'm Victor Almeida</h1>  
 
 - 🔥 A passionate fullstack developer from Brazil
 
@@ -20,11 +21,22 @@
 <br>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=vision-friendly-dark" alt="devictoralmeida's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&theme=vision-friendly-dark" alt="devictoralmeida's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devictoralmeida&show_icons=true&theme=codeSTACKr" alt="devictoralmeida's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictoralmeida&layout=compact&theme=codeSTACKr" alt="devictoralmeida's most languages"/>
+</p>
+
+<br>
+
+<br>
+
+## ⚙️ Top Repos
+
+<p align="left">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=portfolio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
 </p>
 
 <br>

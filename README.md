@@ -39,6 +39,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=portfolio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=news-hub&theme=codeSTACKr" alt="devictoralmeida's news-hub repository"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api-course-control&theme=codeSTACKr" alt="devictoralmeida's api-course-control repository"/>
 </p>
 
 <br>

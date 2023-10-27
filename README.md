@@ -37,7 +37,7 @@
 
 <p align="left">
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api-course-control&theme=codeSTACKr" alt="devictoralmeida's api-course-control repository"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
 </p>
 
 <br>

@@ -36,13 +36,13 @@
 ## 👩‍💻 Top Repos
 
 <p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-apis&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
 </p>
 
 <br>
 
 <p align="left">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=portfolio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=news-hub&theme=codeSTACKr" alt="devictoralmeida's news-hub repository"/>
 </p>

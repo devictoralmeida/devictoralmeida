@@ -36,7 +36,7 @@
 ## 👩‍💻 Top Repos
 
 <p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-apis&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-api&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
 </p>
 

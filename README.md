@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://devictoralmeida.com.br](https://devictoralmeida.com.br)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular, Java**
-
 - 📫 How to reach me **victoremmanuelmn@gmail.com**
 
 <br>
@@ -37,7 +35,7 @@
 
 <p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=smart-match&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=games-apio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=games-api&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
 </p>
 
 <br>

@@ -4,7 +4,7 @@
 
 - 🔥 A passionate fullstack developer from Brazil
 
-- 🌱 I’m currently learning **Angular and Java + Spring Boot**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://devictoralmeida.com.br](https://devictoralmeida.com.br)
 
@@ -36,13 +36,13 @@
 ## 👩‍💻 Top Repos
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-api&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=smart-match&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=games-apio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=api_imoveis&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=portfolio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-api&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
 </p>

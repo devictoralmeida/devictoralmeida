@@ -35,12 +35,12 @@
 
 <p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=smart-match&theme=codeSTACKr" alt="devictoralmeida's api_imoveis repository"/>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=games-api&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-api&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=ride-manager-api&theme=codeSTACKr" alt="devictoralmeida's ride-manager-api repository"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=kanvas&theme=codeSTACKr" alt="devictoralmeida's kanvas repository"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=games-api&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devictoralmeida&repo=portfolio&theme=codeSTACKr" alt="devictoralmeida's portfolio repository"/>
 </p>
